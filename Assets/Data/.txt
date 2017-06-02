@@ -1,0 +1,9 @@
+Detected	Degrees Per Second	Correct Count	Step Size	Subject Number	Height	Age	Sex
+True	15	1	0.05	Participant_Name (UnityEngine.UI.InputField)	Height (UnityEngine.UI.InputField)	Age_input (UnityEngine.UI.InputField)	GenderInput (UnityEngine.UI.Dropdown)
+True	-14.25	2	0.05	Participant_Name (UnityEngine.UI.InputField)	Height (UnityEngine.UI.InputField)	Age_input (UnityEngine.UI.InputField)	GenderInput (UnityEngine.UI.Dropdown)
+True	13.5	3	0.05	Participant_Name (UnityEngine.UI.InputField)	Height (UnityEngine.UI.InputField)	Age_input (UnityEngine.UI.InputField)	GenderInput (UnityEngine.UI.Dropdown)
+True	-15	1	0.05	Participant_Name (UnityEngine.UI.InputField)	Height (UnityEngine.UI.InputField)	Age_input (UnityEngine.UI.InputField)	GenderInput (UnityEngine.UI.Dropdown)
+True	14.25	2	0.05	Participant_Name (UnityEngine.UI.InputField)	Height (UnityEngine.UI.InputField)	Age_input (UnityEngine.UI.InputField)	GenderInput (UnityEngine.UI.Dropdown)
+False	-13.5	2	0.05	Participant_Name (UnityEngine.UI.InputField)	Height (UnityEngine.UI.InputField)	Age_input (UnityEngine.UI.InputField)	GenderInput (UnityEngine.UI.Dropdown)
+False	12.75	2	0.05	Participant_Name (UnityEngine.UI.InputField)	Height (UnityEngine.UI.InputField)	Age_input (UnityEngine.UI.InputField)	GenderInput (UnityEngine.UI.Dropdown)
+True	0	1	0.05	Participant_Name (UnityEngine.UI.InputField)	Height (UnityEngine.UI.InputField)	Age_input (UnityEngine.UI.InputField)	GenderInput (UnityEngine.UI.Dropdown)
